@@ -13,6 +13,6 @@ Bản mã nguồn dùng `index.html`. Khi dùng bản này, giữ `index.html`, 
 
 Các câu gốc 150, 161 có phương án được khôi phục vì mép ảnh cắt chữ. Câu 157, 181, 195 có điểm mơ hồ được ghi chú trên trang. Đáp án là lời giải suy luận từ đoạn đọc và ghi chú tay trong ảnh, không phải đáp án chính thức của nhà xuất bản. Ở câu 196, đáp án là A theo nội dung mục lục, dù ghi chú tay bên cạnh là D. Câu 197 chọn D theo mục đích thư mời. Câu 198 chọn C theo thông tin họp mỗi quý.
 
-Đây là trang cục bộ, chưa được đưa lên dịch vụ hosting.
+Bản trực tuyến được cấu hình xuất bản qua GitHub Pages: https://anhlalyn.github.io/tracnghiem/. Bản HTML độc lập vẫn dùng được ngoại tuyến.
 
 `build_quiz.py` là nguồn dữ liệu có thể chỉnh sửa. Chạy `python build_quiz.py` để tạo lại `data.js`; script kiểm tra đủ số gốc 147–200 và tối thiểu 201 câu.

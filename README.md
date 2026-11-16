@@ -2,6 +2,8 @@
 
 Trang ôn tập đọc hiểu tiếng Anh chạy hoàn toàn trên trình duyệt.
 
+Truy cập: https://anhlalyn.github.io/tracnghiem/
+
 - 234 câu: 54 câu gốc số 147–200 và 180 câu bổ sung theo đoạn đọc.
 - Giữ nguyên thứ tự câu hỏi và lựa chọn A–D.
 - Chấm điểm, giải thích, đánh dấu câu, tìm kiếm và lưu tiến độ bằng localStorage.
